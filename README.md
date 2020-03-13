@@ -24,3 +24,8 @@ _pues sea el motivo que tengas te dejo una lista de repositorios._
 
 - **Music Download** (pyside)
   [https://github.com/javi20gu/Music_Download](https://github.com/javi20gu/Music_Download)
+  
+- **Facturacion Electronica** (PyQt5)
+  [https://github.com/oscarvogel/PyFE](https://github.com/oscarvogel/PyFE)
+  
+ 
