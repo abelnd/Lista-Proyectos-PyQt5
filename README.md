@@ -1,6 +1,6 @@
 # Lista de Repositorios hechos con PyQT5 - PySide
 _Quieres aprender mas de PyQt5?, deseas colaborar un proyecto hecho con PyQt5?_
-_pues sea el motivo que tengas te dejo una lista de repositorios._
+_pues sea el motivo que tengas te dejo una lista de repositorios, recursos, libros,etc._
 
 ## Lista de Repositorios Github 🚀
 
@@ -27,5 +27,14 @@ _pues sea el motivo que tengas te dejo una lista de repositorios._
   
 - **Facturacion Electronica** (PyQt5)
   [https://github.com/oscarvogel/PyFE](https://github.com/oscarvogel/PyFE)
+
+
+### Enlaces de interes 📋
+
+_webs con tutoriales y contenido interesante sobre PyQT5_
+
+- [https://likegeeks.com/es/tutorial-de-pyqt5/](https://likegeeks.com/es/tutorial-de-pyqt5/)
+- [http://zetcode.com/gui/pyqt5/](http://zetcode.com/gui/pyqt5/)
+- [https://build-system.fman.io/pyqt5-tutorial](https://build-system.fman.io/pyqt5-tutorial)
   
  
