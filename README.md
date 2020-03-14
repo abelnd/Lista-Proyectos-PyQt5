@@ -29,7 +29,7 @@ _pues sea el motivo que tengas te dejo una lista de repositorios, recursos, libr
   [https://github.com/oscarvogel/PyFE](https://github.com/oscarvogel/PyFE)
 
 - **PyQt SQLite**
-  [https://github.com/mbaser/pyqt-sqlite](https://github.com/mbaser/pyqt-sqlite)
+  [https://github.com/mbaser/pyqt-sqlite](https://github.com/mbaser/pyqt-sqlite)   
 
 
 ### Enlaces de interes 📋
@@ -39,5 +39,6 @@ _webs con tutoriales y contenido interesante sobre PyQT5_
 - [https://likegeeks.com/es/tutorial-de-pyqt5/](https://likegeeks.com/es/tutorial-de-pyqt5/)
 - [http://zetcode.com/gui/pyqt5/](http://zetcode.com/gui/pyqt5/)
 - [https://build-system.fman.io/pyqt5-tutorial](https://build-system.fman.io/pyqt5-tutorial)
+- [https://riptutorial.com/es/pyqt5](https://riptutorial.com/es/pyqt5) (Español)
   
  
