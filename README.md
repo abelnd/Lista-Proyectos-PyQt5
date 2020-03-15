@@ -31,13 +31,14 @@ _pues sea el motivo que tengas te dejo una lista de repositorios, recursos, libr
 - **PyQt SQLite**
   [https://github.com/mbaser/pyqt-sqlite](https://github.com/mbaser/pyqt-sqlite)
 
+
 ## Lista de Repositorios GitLab 🚀
 
 - **SlimEditor**
   [https://gitlab.com/tannhausser/SlimEditor](https://gitlab.com/tannhausser/SlimEditor)
 
-  - **Reproductor Genesis**
-  [https://gitlab.com/catarsis/reproductor-genesis](https://gitlab.com/catarsis/reproductor-genesis)
+- **Reproductor Genesis**
+[https://gitlab.com/catarsis/reproductor-genesis](https://gitlab.com/catarsis/reproductor-genesis)
 
 
 ### Enlaces de interes 📋
